@@ -1,0 +1,1 @@
+gcc calculator.c addition.c division.c logarithm.c multiplication.c subtraction.c -o calculator -lm

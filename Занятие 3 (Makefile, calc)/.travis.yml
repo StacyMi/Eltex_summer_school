@@ -1,0 +1,9 @@
+dist: xenial
+OS:
+    - linux
+compiler:
+    - gcc
+script:
+    - gcc 100_findy
+sudo: disabled
+language: C

@@ -1,0 +1,5 @@
+all: test test2
+test:
+	gcc -o 100_find_sum 100_find_sum.c
+test2:
+	./100_find_sum
